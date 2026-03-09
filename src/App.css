@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+body {
+    @apply bg-gray-100 text-black transition-colors;
+}
+
+.dark body {
+    @apply bg-gray-950 text-white;
+}
+
+@utility game-grid-cols {
+    grid-template-columns:auto max-content auto;
+}
+
+@utility grid-grid-content {
+    grid-column:2;
+}
+
+@custom-variant tall (@media (min-height: 1000px));
+
+@custom-variant xs (@media (min-width: 22rem));
+
+@custom-variant dark (&:where(.dark, .dark *));

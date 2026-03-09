@@ -1,0 +1,237 @@
+{
+  "books": [
+    {
+      "url": "",
+      "title": "Inventing the Renaissance: The Myth of a Golden Age",
+      "author": "Ada Palmer",
+      "hm": false,
+      "squareName": "SUB: SFF-related nonfiction",
+      "category": 2,
+      "image": ""
+    },
+    {
+      "url": "",
+      "title": "Remember You Will Die",
+      "author": "Eden Robins",
+      "hm": false,
+      "squareName": "Hidden Gem",
+      "category": 0,
+      "image": ""
+    },
+    {
+      "url": "",
+      "title": "Shadows Linger",
+      "author": "Glen Cook",
+      "hm": false,
+      "squareName": "Published in the 80s",
+      "category": 0,
+      "image": ""
+    },
+    {
+      "url": "",
+      "title": "Graceless Heart",
+      "author": "Isabel Ibañez",
+      "hm": false,
+      "squareName": "High Fashion",
+      "category": 2,
+      "image": ""
+    },
+    {
+      "url": "",
+      "title": "The Rainfall Market",
+      "author": "You Yeong-Gwang",
+      "hm": true,
+      "squareName": "Down with the System",
+      "category": 1,
+      "image": ""
+    },
+    {
+      "url": "",
+      "title": "I Think We've Been Here Before",
+      "author": "Suzy Krause",
+      "hm": true,
+      "squareName": "Impossible Places",
+      "category": 0,
+      "image": ""
+    },
+    {
+      "url": "",
+      "title": "The Listeners",
+      "author": "Maggie Stiefvater",
+      "hm": true,
+      "squareName": "A Book in Parts",
+      "category": 3,
+      "image": ""
+    },
+    {
+      "url": "",
+      "title": "Lent",
+      "author": "Jo Walton",
+      "hm": false,
+      "squareName": "Gods and Pantheons",
+      "category": 2,
+      "image": ""
+    },
+    {
+      "url": "",
+      "title": "The Cat Who Saved the Library",
+      "author": "Sōsuke Natsukawa",
+      "hm": false,
+      "squareName": "Last in a Series",
+      "category": 4,
+      "image": ""
+    },
+    {
+      "url": "",
+      "title": "Lonely Castle in the Mirror",
+      "author": "Mizuki Tsujimura",
+      "hm": false,
+      "squareName": "Book Club or Readalong Book",
+      "category": 4,
+      "image": ""
+    },
+    {
+      "url": "",
+      "title": "On Earth as It Is on Television",
+      "author": "Emily  Jane",
+      "hm": true,
+      "squareName": "Parents",
+      "category": 1,
+      "image": ""
+    },
+    {
+      "url": "",
+      "title": "The Stone Witch of Florence",
+      "author": "Anna Rasche",
+      "hm": false,
+      "squareName": "Epistolary",
+      "category": 2,
+      "image": ""
+    },
+    {
+      "url": "",
+      "title": "Hemlock & Silver",
+      "author": "T. Kingfisher",
+      "hm": false,
+      "squareName": "Published in 2025",
+      "category": 1,
+      "image": ""
+    },
+    {
+      "url": "",
+      "title": "A Witch's Guide to Magical Innkeeping",
+      "author": "Sangu Mandanna",
+      "hm": false,
+      "squareName": "Author of Color",
+      "category": 3,
+      "image": ""
+    },
+    {
+      "url": "",
+      "title": "We Speak Through the Mountain",
+      "author": "Premee Mohamed",
+      "hm": true,
+      "squareName": "Small Press or Self Published",
+      "category": 0,
+      "image": ""
+    },
+    {
+      "url": "",
+      "title": "The Last Gifts of the Universe",
+      "author": "Riley August",
+      "hm": false,
+      "squareName": "Biopunk",
+      "category": 1,
+      "image": ""
+    },
+    {
+      "url": "",
+      "title": "Frieren: Beyond Journey's End, Vol. 1",
+      "author": "Riley August",
+      "hm": true,
+      "squareName": "Elves and Dwarves",
+      "category": 4,
+      "image": ""
+    },
+    {
+      "url": "",
+      "title": "Only One Coffin",
+      "author": "A.J. Truman",
+      "hm": false,
+      "squareName": "LGBTQIA Protagonist",
+      "category": 3,
+      "image": ""
+    },
+    {
+      "url": "",
+      "title": "Artemis Made Me Do It",
+      "author": "Trista Mateer",
+      "hm": true,
+      "squareName": "Short Stories",
+      "category": 0,
+      "image": ""
+    },
+    {
+      "url": "",
+      "title": "Scattered All Over the Earth",
+      "author": "Yōko Tawada",
+      "hm": true,
+      "squareName": "Stranger in a Strange Land",
+      "category": 4,
+      "image": ""
+    },
+    {
+      "url": "",
+      "title": "Everyone in My Family Has Killed Someone",
+      "author": "Benjamin Stevenson",
+      "hm": false,
+      "squareName": "Recycle a Bingo Square",
+      "category": 3,
+      "image": ""
+    },
+    {
+      "url": "",
+      "title": "Summon the Keeper",
+      "subtitle": "Tanya Huff",
+      "author": "",
+      "hm": false,
+      "squareName": "Cozy SFF",
+      "category": 3,
+      "image": ""
+    },
+    {
+      "url": "",
+      "title": "A Portrait in Shadow",
+      "author": "A Portrait in Shadow",
+      "hm": false,
+      "squareName": "Generic Title",
+      "category": 2,
+      "image": ""
+    },
+    {
+      "url": "",
+      "title": "Your Name",
+      "author": "Makoto Shinkai",
+      "hm": true,
+      "squareName": "Not a Book",
+      "category": 4,
+      "image": ""
+    },
+    {
+      "url": "",
+      "title": "Chilling Effect",
+      "author": "Valerie Valdes",
+      "hm": true,
+      "squareName": "Pirates",
+      "category": 1,
+      "image": ""
+    }
+  ],
+  "categories": [
+    { "name": "Title is a complete sentence", "difficulty": 4, "idx": 0 },
+    { "name": "Features a cat", "difficulty": 3, "idx": 1 },
+    { "name": "Set in Florence", "difficulty": 2, "idx": 2 },
+    { "name": "Set in a hotel", "difficulty": 1, "idx": 3 },
+    { "name": "Translated from Japanese", "difficulty": 0, "idx": 4 }
+  ]
+}
