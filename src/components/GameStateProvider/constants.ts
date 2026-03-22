@@ -55,11 +55,11 @@ export enum DisplayType {
 }
 
 export const EMOJI_MAP = {
-  1: "🟧",
-  2: "🟨",
-  3: "🟩",
-  4: "🟦",
-  5: "🟪",
+  0: "🟧",
+  1: "🟨",
+  2: "🟩",
+  3: "🟦",
+  4: "🟪",
 };
 
 export const MAX_LIVES = 6;
