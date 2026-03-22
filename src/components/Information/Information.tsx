@@ -62,7 +62,7 @@ export const Information = () => {
       <Dialog.Title className="text-center font-bold text-md mb-2">Project information</Dialog.Title>
       <p className="mb-2">
         <a
-          href="https://old.reddit.com/r/Fantasy/comments/1bt4iqf/official_rfantasy_2024_book_bingo_challenge/"
+          href="https://old.reddit.com/r/Fantasy/comments/1joxlrr/official_rfantasy_2025_book_bingo_challenge/"
           target="_blank"
           className="text-blue-600 dark:text-blue-400 cursor-pointer underline"
         >
@@ -81,7 +81,7 @@ export const Information = () => {
       <p className="mb-2">
         Connections Bingo is{" "}
         <a
-          href="https://github.com/RheingoldRiver/connections-bingo-2024"
+          href="https://github.com/RheingoldRiver/connections-bingo-2025"
           target="_blank"
           className="text-blue-600 dark:text-blue-400 cursor-pointer underline"
         >

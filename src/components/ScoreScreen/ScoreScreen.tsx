@@ -9,7 +9,7 @@ export const ScoreScreen = () => {
   const [copied, setCopied] = useState(false);
   const intro = `I guessed River's Connections Bingo with ${
     MAX_LIVES - guessHistory.length + correct.length
-  } lives left!  \nhttps://bingo2024.river.me  \n`;
+  } lives left!  \nhttps://bingo2025.river.me  \n`;
   const copyableCode =
     intro +
     guessHistory
