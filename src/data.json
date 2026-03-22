@@ -1,230 +1,230 @@
 {
   "books": [
     {
-      "url": "",
+      "url": "https://www.goodreads.com/book/show/215968557-inventing-the-renaissance",
       "title": "Inventing the Renaissance: The Myth of a Golden Age",
       "author": "Ada Palmer",
       "hm": false,
       "squareName": "SUB: SFF-related nonfiction",
       "category": 2,
-      "image": ""
+      "image": "215968557.jpg"
     },
     {
-      "url": "",
+      "url": "https://www.goodreads.com/book/show/203751806-remember-you-will-die",
       "title": "Remember You Will Die",
       "author": "Eden Robins",
       "hm": false,
       "squareName": "Hidden Gem",
       "category": 0,
-      "image": ""
+      "image": "203751806.jpg"
     },
     {
-      "url": "",
+      "url": "https://www.goodreads.com/book/show/400881.Shadows_Linger",
       "title": "Shadows Linger",
       "author": "Glen Cook",
       "hm": false,
       "squareName": "Published in the 80s",
       "category": 0,
-      "image": ""
+      "image": "400881.jpg"
     },
     {
-      "url": "",
+      "url": "https://www.goodreads.com/book/show/231126993-graceless-heart",
       "title": "Graceless Heart",
       "author": "Isabel Ibañez",
       "hm": false,
       "squareName": "High Fashion",
       "category": 2,
-      "image": ""
+      "image": "231126993.jpg"
     },
     {
-      "url": "",
+      "url": "https://www.goodreads.com/book/show/216785385-the-rainfall-market",
       "title": "The Rainfall Market",
       "author": "You Yeong-Gwang",
       "hm": true,
       "squareName": "Down with the System",
       "category": 1,
-      "image": ""
+      "image": "216785385.jpg"
     },
     {
-      "url": "",
+      "url": "https://www.goodreads.com/book/show/198190462-i-think-we-ve-been-here-before",
       "title": "I Think We've Been Here Before",
       "author": "Suzy Krause",
       "hm": true,
       "squareName": "Impossible Places",
       "category": 0,
-      "image": ""
+      "image": "198190462.jpg"
     },
     {
-      "url": "",
+      "url": "https://www.goodreads.com/book/show/56988057-the-listeners",
       "title": "The Listeners",
       "author": "Maggie Stiefvater",
       "hm": true,
       "squareName": "A Book in Parts",
       "category": 3,
-      "image": ""
+      "image": "56988057.jpg"
     },
     {
-      "url": "",
+      "url": "https://www.goodreads.com/book/show/41554680-lent",
       "title": "Lent",
       "author": "Jo Walton",
       "hm": false,
       "squareName": "Gods and Pantheons",
       "category": 2,
-      "image": ""
+      "image": "41554680.jpg"
     },
     {
-      "url": "",
+      "url": "https://www.goodreads.com/book/show/216616111-the-cat-who-saved-the-library",
       "title": "The Cat Who Saved the Library",
       "author": "Sōsuke Natsukawa",
       "hm": false,
       "squareName": "Last in a Series",
       "category": 4,
-      "image": ""
+      "image": "216616111.jpg"
     },
     {
-      "url": "",
+      "url": "https://www.goodreads.com/book/show/125077742-lonely-castle-in-the-mirror",
       "title": "Lonely Castle in the Mirror",
       "author": "Mizuki Tsujimura",
       "hm": false,
       "squareName": "Book Club or Readalong Book",
       "category": 4,
-      "image": ""
+      "image": "125077742.jpg"
     },
     {
-      "url": "",
+      "url": "On Earth as It Is on Television",
       "title": "On Earth as It Is on Television",
       "author": "Emily  Jane",
       "hm": true,
       "squareName": "Parents",
       "category": 1,
-      "image": ""
+      "image": "206340812.jpg"
     },
     {
-      "url": "",
+      "url": "https://www.goodreads.com/book/show/203747795-the-stone-witch-of-florence",
       "title": "The Stone Witch of Florence",
       "author": "Anna Rasche",
       "hm": false,
       "squareName": "Epistolary",
       "category": 2,
-      "image": ""
+      "image": "203747795.jpg"
     },
     {
-      "url": "",
+      "url": "https://www.goodreads.com/book/show/217388302-hemlock-silver",
       "title": "Hemlock & Silver",
       "author": "T. Kingfisher",
       "hm": false,
       "squareName": "Published in 2025",
       "category": 1,
-      "image": ""
+      "image": "217582926.jpg"
     },
     {
-      "url": "",
+      "url": "https://www.goodreads.com/book/show/123029113-a-witch-s-guide-to-magical-innkeeping",
       "title": "A Witch's Guide to Magical Innkeeping",
       "author": "Sangu Mandanna",
       "hm": false,
       "squareName": "Author of Color",
       "category": 3,
-      "image": ""
+      "image": "123029113.png"
     },
     {
-      "url": "",
+      "url": "https://www.goodreads.com/book/show/198385725-we-speak-through-the-mountain",
       "title": "We Speak Through the Mountain",
       "author": "Premee Mohamed",
       "hm": true,
       "squareName": "Small Press or Self Published",
       "category": 0,
-      "image": ""
+      "image": "198385725.jpg"
     },
     {
-      "url": "",
+      "url": "https://www.goodreads.com/book/show/207647271-the-last-gifts-of-the-universe",
       "title": "The Last Gifts of the Universe",
       "author": "Riley August",
       "hm": false,
       "squareName": "Biopunk",
       "category": 1,
-      "image": ""
+      "image": "207647271.jpg"
     },
     {
-      "url": "",
+      "url": "https://www.goodreads.com/book/show/57147096-frieren",
       "title": "Frieren: Beyond Journey's End, Vol. 1",
       "author": "Riley August",
       "hm": true,
       "squareName": "Elves and Dwarves",
       "category": 4,
-      "image": ""
+      "image": "57147096.jpg"
     },
     {
-      "url": "",
+      "url": "https://www.goodreads.com/book/show/75298273-only-one-coffin",
       "title": "Only One Coffin",
       "author": "A.J. Truman",
       "hm": false,
       "squareName": "LGBTQIA Protagonist",
       "category": 3,
-      "image": ""
+      "image": "75298273.jpg"
     },
     {
-      "url": "",
+      "url": "https://www.goodreads.com/book/show/60182544-artemis-made-me-do-it",
       "title": "Artemis Made Me Do It",
       "author": "Trista Mateer",
       "hm": true,
       "squareName": "Short Stories",
       "category": 0,
-      "image": ""
+      "image": "60182544.jpg"
     },
     {
-      "url": "",
+      "url": "https://www.goodreads.com/book/show/58470813-scattered-all-over-the-earth",
       "title": "Scattered All Over the Earth",
       "author": "Yōko Tawada",
       "hm": true,
       "squareName": "Stranger in a Strange Land",
       "category": 4,
-      "image": ""
+      "image": "58470813.jpg"
     },
     {
-      "url": "",
-      "title": "Everyone in My Family Has Killed Someone",
-      "author": "Benjamin Stevenson",
+      "url": "https://www.goodreads.com/book/show/55196813-the-maid",
+      "title": "The Maid",
+      "author": "Nita Prose",
       "hm": false,
       "squareName": "Recycle a Bingo Square",
       "category": 3,
-      "image": ""
+      "image": "55196813.jpg"
     },
     {
-      "url": "",
+      "url": "https://www.goodreads.com/book/show/60738.Summon_the_Keeper",
       "title": "Summon the Keeper",
       "subtitle": "Tanya Huff",
       "author": "",
       "hm": false,
       "squareName": "Cozy SFF",
       "category": 3,
-      "image": ""
+      "image": "60738.jpg"
     },
     {
-      "url": "",
+      "url": "https://www.goodreads.com/book/show/61165369-a-portrait-in-shadow",
       "title": "A Portrait in Shadow",
       "author": "A Portrait in Shadow",
       "hm": false,
       "squareName": "Generic Title",
       "category": 2,
-      "image": ""
+      "image": "61165369.jpg"
     },
     {
-      "url": "",
+      "url": "https://www.imdb.com/title/tt5311514",
       "title": "Your Name",
       "author": "Makoto Shinkai",
       "hm": true,
       "squareName": "Not a Book",
       "category": 4,
-      "image": ""
+      "image": "12345.jpg"
     },
     {
-      "url": "",
+      "url": "https://www.goodreads.com/book/show/43309529-chilling-effect",
       "title": "Chilling Effect",
       "author": "Valerie Valdes",
       "hm": true,
       "squareName": "Pirates",
       "category": 1,
-      "image": ""
+      "image": "43309529.jpg"
     }
   ],
   "categories": [
