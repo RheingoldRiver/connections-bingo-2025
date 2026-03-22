@@ -69,9 +69,9 @@ export type DifficultyColors = {
 };
 
 export const COLORS: DifficultyColors = {
-  1: { bg: "bg-orange-300 dark:bg-orange-800" },
-  2: { bg: "bg-yellow-200 dark:bg-yellow-400", text: "dark:text-black" },
-  3: { bg: "bg-green-300 dark:bg-green-800" },
-  4: { bg: "bg-blue-300 dark:bg-blue-800" },
-  5: { bg: "bg-purple-300 dark:bg-purple-800" },
+  0: { bg: "bg-orange-300 dark:bg-orange-800" },
+  1: { bg: "bg-yellow-200 dark:bg-yellow-400", text: "dark:text-black" },
+  2: { bg: "bg-green-300 dark:bg-green-800" },
+  3: { bg: "bg-blue-300 dark:bg-blue-800" },
+  4: { bg: "bg-purple-300 dark:bg-purple-800" },
 };
