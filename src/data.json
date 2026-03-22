@@ -46,13 +46,13 @@
       "image": "216785385.jpg"
     },
     {
-      "url": "https://www.goodreads.com/book/show/198190462-i-think-we-ve-been-here-before",
-      "title": "I Think We've Been Here Before",
-      "author": "Suzy Krause",
+      "url": "https://www.goodreads.com/book/show/234352814-agnes-aubert-s-mystical-cat-shelter",
+      "title": "Agnes Aubert's Mystical Cat Shelter",
+      "author": "Heather Fawcett",
       "hm": true,
       "squareName": "Impossible Places",
-      "category": 0,
-      "image": "198190462.jpg"
+      "category": 1,
+      "image": "234352814.jpg"
     },
     {
       "url": "https://www.goodreads.com/book/show/56988057-the-listeners",
@@ -127,27 +127,27 @@
       "image": "123029113.png"
     },
     {
+      "url": "https://www.goodreads.com/book/show/59878708-some-by-virtue-fall",
+      "title": "Some by Virtue Fall",
+      "author": "Alexandra Rowland",
+      "hm": true,
+      "squareName": "Small Press or Self Published",
+      "category": 0,
+      "image": "59878708.jpg"
+    },
+    {
       "url": "https://www.goodreads.com/book/show/198385725-we-speak-through-the-mountain",
       "title": "We Speak Through the Mountain",
       "author": "Premee Mohamed",
-      "hm": true,
-      "squareName": "Small Press or Self Published",
+      "hm": false,
+      "squareName": "Biopunk",
       "category": 0,
       "image": "198385725.jpg"
     },
     {
-      "url": "https://www.goodreads.com/book/show/207647271-the-last-gifts-of-the-universe",
-      "title": "The Last Gifts of the Universe",
-      "author": "Riley August",
-      "hm": false,
-      "squareName": "Biopunk",
-      "category": 1,
-      "image": "207647271.jpg"
-    },
-    {
       "url": "https://www.goodreads.com/book/show/57147096-frieren",
       "title": "Frieren: Beyond Journey's End, Vol. 1",
-      "author": "Riley August",
+      "author": "Kanehito Yamada",
       "hm": true,
       "squareName": "Elves and Dwarves",
       "category": 4,
