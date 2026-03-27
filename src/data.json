@@ -192,8 +192,7 @@
     {
       "url": "https://www.goodreads.com/book/show/60738.Summon_the_Keeper",
       "title": "Summon the Keeper",
-      "subtitle": "Tanya Huff",
-      "author": "",
+      "author": "Tanya Huff",
       "hm": false,
       "squareName": "Cozy SFF",
       "category": 3,
@@ -228,7 +227,7 @@
     }
   ],
   "categories": [
-    { "name": "Title is a complete sentence", "difficulty": 4, "idx": 0 },
+    { "name": "Title is a sentence", "difficulty": 4, "idx": 0 },
     { "name": "Features a cat", "difficulty": 3, "idx": 1 },
     { "name": "Set in Florence", "difficulty": 2, "idx": 2 },
     { "name": "Set in a hotel", "difficulty": 1, "idx": 3 },
